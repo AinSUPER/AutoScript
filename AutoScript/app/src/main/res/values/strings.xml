@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoScript</string>
+    <string name="app_description">手机自动化操作工具</string>
+    
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+    <string name="help">帮助</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="edit">编辑</string>
+    <string name="run">运行</string>
+    <string name="stop">停止</string>
+    <string name="pause">暂停</string>
+    <string name="resume">继续</string>
+    
+    <string name="script_list">脚本列表</string>
+    <string name="new_script">新建脚本</string>
+    <string name="import_script">导入脚本</string>
+    <string name="export_script">导出脚本</string>
+    <string name="script_name">脚本名称</string>
+    <string name="script_description">脚本描述</string>
+    
+    <string name="permission_required">需要权限</string>
+    <string name="permission_accessibility">无障碍服务</string>
+    <string name="permission_accessibility_desc">用于模拟点击、滑动等操作</string>
+    <string name="permission_overlay">悬浮窗权限</string>
+    <string name="permission_overlay_desc">用于显示控制面板</string>
+    <string name="permission_storage">存储权限</string>
+    <string name="permission_storage_desc">用于读取和保存脚本文件</string>
+    <string name="permission_battery_optimization">电池优化</string>
+    <string name="permission_battery_optimization_desc">关闭电池优化以保持后台运行</string>
+    
+    <string name="service_running">服务运行中</string>
+    <string name="service_stopped">服务已停止</string>
+    <string name="script_running">脚本运行中</string>
+    <string name="script_stopped">脚本已停止</string>
+    
+    <string name="error_permission_denied">权限被拒绝</string>
+    <string name="error_accessibility_not_enabled">无障碍服务未开启</string>
+    <string name="error_script_not_found">脚本不存在</string>
+    <string name="error_script_run_failed">脚本运行失败</string>
+    
+    <string name="success_script_saved">脚本保存成功</string>
+    <string name="success_script_imported">脚本导入成功</string>
+    <string name="success_script_exported">脚本导出成功</string>
+    
+    <string name="hint_script_name">请输入脚本名称</string>
+    <string name="hint_script_description">请输入脚本描述（可选）</string>
+    
+    <string name="action_click">点击</string>
+    <string name="action_long_click">长按</string>
+    <string name="action_swipe">滑动</string>
+    <string name="action_input">输入</string>
+    <string name="action_wait">等待</string>
+    <string name="action_condition">条件判断</string>
+    <string name="action_loop">循环</string>
+    <string name="action_find_image">找图</string>
+    <string name="action_find_color">找色</string>
+    <string name="action_find_text">找字</string>
+    
+    <string name="notification_channel_service">服务通知</string>
+    <string name="notification_channel_script">脚本通知</string>
+    <string name="notification_service_running">AutoScript服务正在运行</string>
+    <string name="notification_tap_to_open">点击打开应用</string>
+</resources>
